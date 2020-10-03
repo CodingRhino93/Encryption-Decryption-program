@@ -1,0 +1,35 @@
+C:\Users\zugzug\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/zugzug/Documents/College stuff/Level 6/Programming/C/2nd Assignment Final"
+-- The C compiler identification is GNU 7.3.0
+-- Check for working C compiler: /usr/bin/cc
+CMake Error at /cygdrive/c/Users/zugzug/.CLion2018.2/system/cygwin_cmake/share/cmake-3.12.3/Modules/CMakeTestCCompiler.cmake:37 (try_compile):
+  Failed to open
+
+    /cygdrive/c/Users/zugzug/Documents/College stuff/Level 6/Programming/C/2nd Assignment Final/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: /usr/bin/cc -- broken
+CMake Error at /cygdrive/c/Users/zugzug/.CLion2018.2/system/cygwin_cmake/share/cmake-3.12.3/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/Users/zugzug/Documents/College stuff/Level 6/Programming/C/2nd Assignment Final/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/Users/zugzug/Documents/College stuff/Level 6/Programming/C/2nd Assignment Final/cmake-build-debug/CMakeFiles/CMakeError.log".
